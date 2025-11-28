@@ -426,5 +426,5 @@ plt.tight_layout()
 plt.savefig("total_won_matches_vs_trophies_regression.png", dpi=300)
 
 
-print("✅ All charts created successfully!")
+print("All charts created successfully!")
 
